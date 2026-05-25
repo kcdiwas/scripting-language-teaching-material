@@ -1,42 +1,77 @@
 # Scripting Language Notes
 
-This repository contains study materials and notes for the **Scripting Language** course, part of the BCA (Bachelor of Computer Applications) fourth semester curriculum.
+This repository contains study notes and practice problems for the **Scripting Language** course in the BCA 4th semester curriculum.
 
-## About
+The material is written in a simple, student-friendly style and is focused on helping learners understand JavaScript concepts through short explanations, examples, and exercises.
 
-These notes are designed to help students understand JavaScript fundamentals in a simple, easy-to-follow manner. The content is written with clarity in mind, making it accessible for both native and non-native English speakers.
+## What Is Included
 
-## Structure
+- Concept notes written in markdown
+- Practice problems for each topic
+- Examples that are easy to follow and adapt
+- Material organized by unit and topic
 
-The materials are organized by units and topics:
+## Repository Structure
 
-* **Unit 1**
-  * Functions
-    * Basic functions and parameters
-    * Function expressions and callbacks
-    * Arrow functions
-  * Arrays
-    * Array basics and operations
-    * Array methods
+### Unit 1: JavaScript
 
-Each topic includes:
-* **Article** - Detailed explanations with examples
-* **Problems** - Practice exercises to test understanding
+Core JavaScript fundamentals and browser-based programming topics:
+
+- JavaScript basics
+- Data types, operators, and control structures
+- Functions
+- Arrays
+- Objects
+- Date and time
+- Regular expressions
+- Browser environment and DOM
+- Windows, frames, forms, and cookies
+
+Each topic usually includes:
+
+- `Article` files for explanations and examples
+- `Problems` files for practice and revision
+
+### Unit 2: PHP
+
+Server-side programming and PHP fundamentals:
+
+- Introduction to PHP
+- Arrays
+- Functions
+- Form handling
+- Global variables
+- Sessions
+- MySQL basics
+
+### Unit 3: Advanced Topics
+
+Additional scripting-related topics and integration:
+
+- OOP
+- AJAX
+- jQuery
+
+## How To Use These Notes
+
+- Read the article first to understand the concept
+- Try the matching problem set after each topic
+- Use the examples as a reference while practicing
+- Review the bonus exercises for extra revision
 
 ## Status
 
-**Work in Progress** 
+This repository is a work in progress and will continue to grow as more topics and exercises are added.
 
-This repository is actively being developed and updated with new content.
+## Purpose
 
-## Usage
+These notes are intended for:
 
-Students can use these materials for:
-* Learning and reviewing course concepts
-* Practicing with provided exercises
-* Preparing for exams
+- Classroom study
+- Quick revision before exams
+- Self-practice
+- Understanding concepts through examples
 
 ## Note
 
-These materials are teaching resources and should be used alongside official course materials and lectures.
-
+These are support materials and should be used alongside official course notes, lectures, and lab exercises.
