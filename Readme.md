@@ -51,6 +51,8 @@ Additional scripting-related topics and integration:
 - OOP
 - AJAX
 - jQuery
+- Joomla (CMS)
+- WordPress (Administrator Level)
 
 ## How To Use These Notes
 
